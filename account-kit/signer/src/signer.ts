@@ -37,6 +37,10 @@ export type AuthParams =
       claims?: string;
     } & OauthProviderConfig &
       OauthRedirectConfig)
+  | ({
+      type: "custom-jwt";
+      jwt: string;
+    } & OauthProviderConfig)
   | {
       type: "oauthReturn";
       bundle: string;

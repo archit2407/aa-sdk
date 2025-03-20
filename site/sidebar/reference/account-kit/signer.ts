@@ -96,6 +96,10 @@ export const accountKitSignerReferenceSidebar: SidebarItem[] = [
             link: "/reference/account-kit/signer/classes/BaseAlchemySigner/disconnect",
           },
           {
+            text: "experimental_toSolanaSigner",
+            link: "/reference/account-kit/signer/classes/BaseAlchemySigner/experimental_toSolanaSigner",
+          },
+          {
             text: "exportWallet",
             link: "/reference/account-kit/signer/classes/BaseAlchemySigner/exportWallet",
           },
@@ -106,6 +110,10 @@ export const accountKitSignerReferenceSidebar: SidebarItem[] = [
           {
             text: "getAuthDetails",
             link: "/reference/account-kit/signer/classes/BaseAlchemySigner/getAuthDetails",
+          },
+          {
+            text: "getConfig",
+            link: "/reference/account-kit/signer/classes/BaseAlchemySigner/getConfig",
           },
           {
             text: "getUser",

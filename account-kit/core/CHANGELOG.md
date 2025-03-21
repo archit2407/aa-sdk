@@ -5,6 +5,8 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 **Note:** Version bump only for package @account-kit/core
 
+**Note:** Version bump only for package @account-kit/core
+
 # [4.18.0-alpha.0](https://github.com/alchemyplatform/aa-sdk/compare/v4.17.0...v4.18.0-alpha.0) (2025-03-21)
 
 **Note:** Version bump only for package @account-kit/core

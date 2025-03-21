@@ -61,5 +61,6 @@
   "dependencies": {
     "@segment/analytics-next": "^1.74.0",
     "uuid": "^11.0.2"
-  }
+  },
+  "gitHead": "3f0eb52599fa8aedd69510d780e0de85b5641426"
 }

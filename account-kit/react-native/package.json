@@ -62,5 +62,6 @@
   "bugs": {
     "url": "https://github.com/alchemyplatform/aa-sdk/issues"
   },
-  "homepage": "https://github.com/alchemyplatform/aa-sdk#readme"
+  "homepage": "https://github.com/alchemyplatform/aa-sdk#readme",
+  "gitHead": "3f0eb52599fa8aedd69510d780e0de85b5641426"
 }

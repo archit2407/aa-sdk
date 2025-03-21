@@ -1,6 +1,6 @@
 {
   "name": "@account-kit/react",
-  "version": "4.18.0-alpha.1",
+  "version": "4.18.0-alpha.2",
   "description": "React components and hooks for using Account Kit",
   "author": "Alchemy",
   "license": "MIT",
@@ -82,10 +82,10 @@
     "vitest": "^2.0.4"
   },
   "dependencies": {
-    "@account-kit/core": "^4.18.0-alpha.1",
-    "@account-kit/infra": "^4.18.0-alpha.1",
-    "@account-kit/logging": "^4.18.0-alpha.1",
-    "@account-kit/signer": "^4.18.0-alpha.1",
+    "@account-kit/core": "^4.18.0-alpha.2",
+    "@account-kit/infra": "^4.18.0-alpha.2",
+    "@account-kit/logging": "^4.18.0-alpha.2",
+    "@account-kit/signer": "^4.18.0-alpha.2",
     "@tanstack/react-form": "^0.33.0",
     "@tanstack/zod-form-adapter": "^0.33.0",
     "@wagmi/connectors": "^5.1.15",
@@ -117,7 +117,7 @@
     "url": "https://github.com/alchemyplatform/aa-sdk/issues"
   },
   "homepage": "https://github.com/alchemyplatform/aa-sdk#readme",
-  "gitHead": "3f0eb52599fa8aedd69510d780e0de85b5641426",
+  "gitHead": "5809b4bedf61ccaa54265f88f8118f56a492a5eb",
   "optionalDependencies": {
     "alchemy-sdk": "^3.0.0"
   },

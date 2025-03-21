@@ -1,6 +1,6 @@
 {
   "name": "@account-kit/react-native",
-  "version": "4.18.0-alpha.1",
+  "version": "4.18.0-alpha.2",
   "description": "React Native Components and Hooks for using Account Kit",
   "license": "MIT",
   "author": "Alchemy",
@@ -39,11 +39,11 @@
     "typescript-template": "*"
   },
   "dependencies": {
-    "@account-kit/core": "^4.18.0-alpha.1",
-    "@account-kit/infra": "^4.18.0-alpha.1",
-    "@account-kit/react": "^4.18.0-alpha.1",
-    "@account-kit/react-native-signer": "^4.18.0-alpha.1",
-    "@account-kit/signer": "^4.18.0-alpha.1",
+    "@account-kit/core": "^4.18.0-alpha.2",
+    "@account-kit/infra": "^4.18.0-alpha.2",
+    "@account-kit/react": "^4.18.0-alpha.2",
+    "@account-kit/react-native-signer": "^4.18.0-alpha.2",
+    "@account-kit/signer": "^4.18.0-alpha.2",
     "@noble/hashes": "1.7.1",
     "crypto-browserify": "^3.12.1",
     "node-libs-react-native": "^1.2.1",
@@ -63,5 +63,5 @@
     "url": "https://github.com/alchemyplatform/aa-sdk/issues"
   },
   "homepage": "https://github.com/alchemyplatform/aa-sdk#readme",
-  "gitHead": "3f0eb52599fa8aedd69510d780e0de85b5641426"
+  "gitHead": "5809b4bedf61ccaa54265f88f8118f56a492a5eb"
 }

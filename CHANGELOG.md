@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.18.0-alpha.3](https://github.com/archit2407/aa-sdk/compare/v4.18.0-alpha.2...v4.18.0-alpha.3) (2025-03-21)
+
+**Note:** Version bump only for package root
+
 # [4.18.0-alpha.2](https://github.com/archit2407/aa-sdk/compare/v4.18.0-alpha.1...v4.18.0-alpha.2) (2025-03-21)
 
 **Note:** Version bump only for package root

@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.18.0-alpha.4](https://github.com/alchemyplatform/aa-sdk/compare/v4.18.0-alpha.3...v4.18.0-alpha.4) (2025-03-24)
+
+### Bug Fixes
+
+- ensure session persistence on IOS ([#1457](https://github.com/alchemyplatform/aa-sdk/issues/1457)) ([c2fc412](https://github.com/alchemyplatform/aa-sdk/commit/c2fc412d0853b4ba72d7900977912ad78c71e46c)), closes [#1454](https://github.com/alchemyplatform/aa-sdk/issues/1454)
+- pipe through expr seconds ([7528292](https://github.com/alchemyplatform/aa-sdk/commit/7528292dd9aaab493df80107c2e037f53b26d425))
+
 # [4.18.0-alpha.3](https://github.com/alchemyplatform/aa-sdk/compare/v4.18.0-alpha.2...v4.18.0-alpha.3) (2025-03-21)
 
 **Note:** Version bump only for package @account-kit/react-native-signer

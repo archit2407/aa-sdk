@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.18.0-alpha.4](https://github.com/archit2407/aa-sdk/compare/v4.18.0-alpha.3...v4.18.0-alpha.4) (2025-03-24)
+
+### Bug Fixes
+
+- ensure session persistence on IOS ([#1457](https://github.com/archit2407/aa-sdk/issues/1457)) ([c2fc412](https://github.com/archit2407/aa-sdk/commit/c2fc412d0853b4ba72d7900977912ad78c71e46c)), closes [#1454](https://github.com/archit2407/aa-sdk/issues/1454)
+- pipe through expr seconds ([7528292](https://github.com/archit2407/aa-sdk/commit/7528292dd9aaab493df80107c2e037f53b26d425))
+
+### Features
+
+- add low-level deferred action support ([#1434](https://github.com/archit2407/aa-sdk/issues/1434)) ([c3616c3](https://github.com/archit2407/aa-sdk/commit/c3616c3ce3bf1a2277fcdb6ddb368f924c6c70aa))
+- update expo example project to build out native files ([#1475](https://github.com/archit2407/aa-sdk/issues/1475)) ([d9e22e1](https://github.com/archit2407/aa-sdk/commit/d9e22e193592588c9468c06f551b3ec7643900d5))
+- use resolve aliases to handle crypto package resolution ([#1476](https://github.com/archit2407/aa-sdk/issues/1476)) ([51b0ec2](https://github.com/archit2407/aa-sdk/commit/51b0ec28e32a5c666d414031f288bfc327748c4d))
+
 # [4.18.0-alpha.3](https://github.com/archit2407/aa-sdk/compare/v4.18.0-alpha.2...v4.18.0-alpha.3) (2025-03-21)
 
 **Note:** Version bump only for package root

@@ -917,6 +917,7 @@ export abstract class BaseAlchemySigner<TClient extends BaseSignerClient>
     const { credentialBundle, orgId, isSignUp } = await this.inner.submitJwt({
       jwt: args.jwt,
       authProvider: args.authProviderId,
+      expirationSeconds: this.getExpirationSeconds(),
     });
 
     const user = await this.inner.completeAuthWithBundle({

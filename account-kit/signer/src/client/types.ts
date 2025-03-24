@@ -72,6 +72,7 @@ export type JwtParams = {
   jwt: string;
   targetPublicKey: string;
   authProvider: string;
+  expirationSeconds?: number;
 };
 
 export type JwtResponse = {

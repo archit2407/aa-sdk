@@ -83,6 +83,7 @@ export class RNSignerClient extends BaseSignerClient<undefined> {
       jwt: args.jwt,
       targetPublicKey: publicKey,
       authProvider: args.authProvider,
+      expirationSeconds: args?.expirationSeconds,
     });
   }
 
